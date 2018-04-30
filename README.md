@@ -1,6 +1,6 @@
-##Simple flask application snippet
+## Simple flask application snippet
 
-Simple flask application, that can be used as a starting point. It has complete file/directory structure. Includes css framework and sample template file.
+Simple flask application, that can be used as a starting point. It has complete file/directory structure. Includes css and js framework and sample template file.
 
 Requires:
 - python3
@@ -9,6 +9,7 @@ Requires:
 
 Includes:
 - kube.css
+- kube.js
 
 Installation:
 ```bash
